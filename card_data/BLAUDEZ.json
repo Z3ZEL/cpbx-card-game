@@ -7,8 +7,8 @@
         "force" : 10,
         "intelligence" : 10,
         "charisme" : 10,
-        "genre" : "male",
-        "type" : "professor",
+        "genre" : "MALE",
+        "type" : "PROFESSOR",
         "price" : 10,
         "tag" : "BLAUDEZ"
 }   
