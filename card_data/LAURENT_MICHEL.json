@@ -1,0 +1,14 @@
+{
+        "name" : "Laurent Michel",
+        "description":"Vous allez souffrir",
+        "string_effect" : "Détruit les cartes de types élève ajdacent lorsque qu'il rentre sur le terrain",
+        "raw_effect" : "event:INVOKE/type:KILL/target:RIGHT,LEFT/targetGenre:ANY/targetType:Student",
+        "probability" : 0.03,
+        "force" : 8,
+        "intelligence" : 8,
+        "charisme" : 6,
+        "genre" : "male",
+        "type" : "professor",
+        "price" : 10,
+        "tag" : "MICHEL_LAURENT"
+}   
