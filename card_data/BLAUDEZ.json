@@ -1,7 +1,7 @@
 {
         "name" : "Blaudez",
         "description":"Le big boss",
-        "string_effect" : "Une fois posé il peu kill n'importe quelle carte sur le terrain de l'adversaire",
+        "string_effect" : "Une fois posé il peut kill n'importe quelle carte sur le terrain de l'adversaire",
         "raw_effect" : "event:INVOKE/type:KILL/target:ANY/targetGenre:ANY",
         "probability" : 0.01,
         "force" : 10,
