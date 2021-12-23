@@ -1,0 +1,14 @@
+{
+        "name" : "J.C Soetens",
+        "description":"Hante vos cauchemards",
+        "string_effect" : "Réduit toutes les stats de la carte en face de 3.",
+        "raw_effect" : "event:INVOKE/type:BOOST/target:FRONT/targetStat:INTELLIGENCE,FORCE,CHARISME/value:-3",
+        "probability" : 0.05,
+        "force" : 4,
+        "intelligence" : 6,
+        "charisme" : 5,
+        "genre" : "MALE",
+        "type" : "PROFESSOR",
+        "price" : 7,
+        "tag" : "SOETENS"
+}   
