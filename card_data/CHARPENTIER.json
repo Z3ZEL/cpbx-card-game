@@ -2,7 +2,7 @@
         "name" : "Eric Charpentier",
         "description":"Big Brain",
         "string_effect" : "Son cerveaun déborde d'intelligence et en partage au cartes adjacente",
-        "raw_effect" : "event:INVOKE/type:BOOST/target:RIGHT,LEFT/stat:INTELLIGENCE/value:2,2",
+        "raw_effect" : "event:INVOKE/type:BOOST/target:RIGHT,LEFT/stat:INTELLIGENCE/value:2",
         "probability" : 0.04,
         "force" : 2,
         "intelligence" : 10,
