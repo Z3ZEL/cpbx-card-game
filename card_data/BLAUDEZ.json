@@ -3,12 +3,12 @@
         "description":"Le big boss",
         "string_effect" : "Une fois posé il peut kill n'importe quelle carte sur le terrain de l'adversaire",
         "raw_effect" : "event:INVOKE/type:KILL/target:ANY/targetGenre:ANY",
-        "probability" : 0.01,
         "force" : 10,
         "intelligence" : 10,
         "charisme" : 10,
         "genre" : "MALE",
         "type" : "PROFESSOR",
         "price" : 10,
+        "rarity":"ULTRA-RARE"
         "tag" : "BLAUDEZ"
 }   
