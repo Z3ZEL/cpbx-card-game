@@ -9,6 +9,6 @@
         "genre" : "MALE",
         "type" : "PROFESSOR",
         "price" : 10,
-        "rarity":"ULTRA-RARE"
+        "rarity":"ULTRA_RARE"
         "tag" : "BLAUDEZ"
 }   
