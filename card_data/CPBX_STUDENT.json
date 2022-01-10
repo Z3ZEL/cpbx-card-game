@@ -1,0 +1,14 @@
+{
+        "name" : "Eleve de CPBx",
+        "description":"Un élève de base en cpbx",
+        "string_effect" : "Ne fais rien de spécial à part avoir plus de 11 de moyenne G",
+        "raw_effect" : "",
+        "force" : 1,
+        "intelligence" : 2,
+        "rarity" : "COMMON",
+        "charisme" : 2,
+        "genre" : "MALE",
+        "type" : "STUDENT",
+        "price" : 3,
+        "tag" : "CPBX_STUDENT"
+}   
