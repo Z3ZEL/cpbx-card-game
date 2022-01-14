@@ -1,0 +1,14 @@
+{
+        "name" : "Ghighi",
+        "description":"Cauchemard des 1As",
+        "string_effect" : "Humilie une carte élève et réduit ses stats de 2",
+        "raw_effect" : "event:INVOKE/type:BOOST/target:ANY/targetType:STUDENT/stat:INTELLIGENCE,FORCE,CHARISME/value:-2,-2,-2",
+        "rarity" : "VERY_RARE",
+        "force" : 3,
+        "intelligence" : 2,
+        "charisme" : 5,
+        "genre" : "FEMALE",
+        "type" : "PROFESSOR",
+        "price" : 7,
+        "tag" : "GAUDINAUD"
+}   
