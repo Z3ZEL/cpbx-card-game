@@ -49,7 +49,7 @@ Puis remplacer par ce que vous voulez
 **raw_effect** est un peu particulier car il est sensible sur la syntaxe
 event:INVOKE le event indique la variable à modifier et INVOKE est la valeur de cette variable (en majuscule) il faut la séparer par ":" et de même il faut separer chaque variable par "/" vous pouvez aussi ajouter plusieurs valeurs à une même variable en les séparants par des "," comme par exemple "target:RIGHT,LEFT"
 
-Ici est détailler toutes les variables disponibles ainsi que leur valeurs disponibles.
+Ici est détaillé toutes les variables disponibles ainsi que leur valeurs disponibles.
 
 
 Quand vous êtes satisfait il vous suffit de descendre en bas de la page et de cliquer sur "Propose File"

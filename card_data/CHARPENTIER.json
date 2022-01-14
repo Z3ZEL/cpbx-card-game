@@ -3,7 +3,7 @@
         "description":"Big Brain",
         "string_effect" : "Son cerveaun déborde d'intelligence et en partage au cartes adjacente",
         "raw_effect" : "event:INVOKE/type:BOOST/target:RIGHT,LEFT/stat:INTELLIGENCE/value:2",
-        "probability" : 0.04,
+        "rarity" : "VERY_RARE",
         "force" : 2,
         "intelligence" : 10,
         "charisme" : 2,
