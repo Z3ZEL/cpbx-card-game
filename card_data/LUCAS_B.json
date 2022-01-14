@@ -1,0 +1,14 @@
+{
+        "name" : "Lucas Boigey",
+        "description":"Président du BDE 2021-2020 et gros suceur de prof",
+        "string_effect" : "Suce les profs. Vous gagnez 4 points de note.",
+        "raw_effect" : "event:INVOKE/type:HEALTH/target:YOU/value:4",
+        "rarity" : "RARE",
+        "force" : 1,
+        "intelligence" : 4,
+        "charisme" : 5,
+        "genre" : "MALE",
+        "type" : "STUDENT",
+        "price" : 6,
+        "tag" : "LUCAS_B"
+}   
