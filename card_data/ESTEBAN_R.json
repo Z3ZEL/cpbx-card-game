@@ -1,0 +1,14 @@
+{
+        "name" : "Esteban Rodriguez",
+        "description":"Codeur furieux",
+        "string_effect" : "Hack le jeu et donne +2 $ à chaque tour",
+        "raw_effect" : "event:BEGIN_TURN/type:MONEY/target:YOU/value:2",
+        "rarity" : "RARE",
+        "force" : 3,
+        "intelligence" : 3,
+        "charisme" : 3,
+        "genre" : "MALE",
+        "type" : "STUDENT",
+        "price" : 5,
+        "tag" : "ESTEBAN_R"
+}   
