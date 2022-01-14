@@ -21,7 +21,7 @@ Pour rajouter une carte :
         "description":"Le big boss",
         "string_effect" : "Une fois posé il peu kill n'importe quelle carte sur le terrain de l'adversaire",
         "raw_effect" : "event:INVOKE/type:KILL/target:ANY/targetGenre:ANY",
-        "probability" : 0.01,
+        "rarity" : "COMMON",
         "force" : 10,
         "intelligence" : 10,
         "charisme" : 10,
@@ -42,9 +42,9 @@ Puis remplacer par ce que vous voulez
 
 **force,intelligence,charisme** max 10
 
-**price** max 19
+**price** cout de la carte
 
-**probability** entre 0 et 1
+**rarity** "COMMON","UNCOMMUN","RARE","VERY_RARE","ULTRA_RARE" => rareté de la carte
 
 **raw_effect** est un peu particulier car il est sensible sur la syntaxe
 event:INVOKE le event indique la variable à modifier et INVOKE est la valeur de cette variable (en majuscule) il faut la séparer par ":" et de même il faut separer chaque variable par "/" vous pouvez aussi ajouter plusieurs valeurs à une même variable en les séparants par des "," comme par exemple "target:RIGHT,LEFT"
