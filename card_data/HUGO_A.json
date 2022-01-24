@@ -1,0 +1,14 @@
+{
+    "name" : "Hugo A.",
+    "description":"Drill suit",
+    "string_effect" : "Drill sur le champs de bataille, l'adversaire devant est choqué il ne pourra pas attaquer au prochain tour",
+    "raw_effect" : "event:INVOKE/type:DISABLE/target:FRONT",
+    "rarity" : "RARE",
+    "force" : 2,
+    "intelligence" : 3,
+    "charisme" :3,
+    "genre" : "MALE",
+    "type" : "STUDENT",
+    "price" : 5,
+    "tag" : "HUGO_A"
+}   

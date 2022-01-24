@@ -1,0 +1,14 @@
+{
+    "name" : "Valentin M. ",
+    "description":"",
+    "string_effect" : "Charge rugby : tacle la carte en face, perd 2 de physique",
+    "raw_effect" : "event:INVOKE/type:BOOST/target:FRONT/stat:PHYSIQUE/value:-2",
+    "rarity" : "RARE",
+    "force" : 4,
+    "intelligence" : 1,
+    "charisme" :3,
+    "genre" : "MALE",
+    "type" : "STUDENT",
+    "price" : 6,
+    "tag" : "VALENTIN_M"
+}   

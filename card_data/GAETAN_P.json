@@ -1,0 +1,14 @@
+{
+    "name" : "Gaetan P.",
+    "description":"Le majorant",
+    "string_effect" : "Complotisme assome les cartes adjacentes, enlève 1 d'intelligence aux cartex ajdacentes",
+    "raw_effect" : "event:INVOKE/type:BOOST/target:RIGHT,LEFT/stat:INTELLIGENCE/value:-1",
+    "rarity" : "UNCOMMON",
+    "force" : 3,
+    "intelligence" : 4,
+    "charisme" :1,
+    "genre" : "MALE",
+    "type" : "STUDENT",
+    "price" : 4,
+    "tag" : "GAETAN_P"
+}   

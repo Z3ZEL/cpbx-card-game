@@ -1,0 +1,14 @@
+{
+    "name" : "Simon L.",
+    "description":"Merguez ce soir",
+    "string_effect" : "Gagne 1$ par carte féminin",
+    "raw_effect" : "event:INVOKE/type:BOOST/target:ALL/targetGenre:FEMALE/stat:MONEY/value:1",
+    "rarity" : "RARE",
+    "force" : 2,
+    "intelligence" : 1,
+    "charisme" :5,
+    "genre" : "MALE",
+    "type" : "STUDENT",
+    "price" : 6,
+    "tag" : "VALENTIN_M"
+}   

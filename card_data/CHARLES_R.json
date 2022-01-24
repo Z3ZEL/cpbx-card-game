@@ -1,0 +1,14 @@
+{
+    "name" : "Charles R.",
+    "description":"Le gros baiseur",
+    "string_effect" : "Empêche d'attaquer toute les cartes de type feminim au prochain tour",
+    "raw_effect" : "event:INVOKE/type:DISABLE/target:ALL/targetGenre:FEMALE",
+    "rarity" : "UNCOMMUN",
+    "force" : 1,
+    "intelligence" : 2,
+    "charisme" :4,
+    "genre" : "MALE",
+    "type" : "STUDENT",
+    "price" : 5,
+    "tag" : "CHARLES_R"
+}   

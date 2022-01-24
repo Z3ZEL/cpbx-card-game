@@ -1,0 +1,14 @@
+{
+    "name" : "Pierre Langot",
+    "description":"Ca va champion?",
+    "string_effect" : "Motive les cartes adjacentes et leur donne 2 de physique",
+    "raw_effect" : "event:INVOKE/type:BOOST/target:RIGHT,LEFT/stat:PHYSIQUE/value:2",
+    "rarity" : "ULTRA_RARE",
+    "force" : 8,
+    "intelligence" : 7,
+    "charisme" : 9,
+    "genre" : "MALE",
+    "type" : "PROFESSOR",
+    "price" : 8,
+    "tag" : "LANGOT"
+}   
