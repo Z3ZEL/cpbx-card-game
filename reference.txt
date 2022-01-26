@@ -14,5 +14,5 @@ LANGOT
 SIMON_L
 SYDNEY
 #[NEW]VALENTIN_M
-#[BOOSTER]TAG:Name:Color   >> This is a booster template <<
-[BOOSTER]S4:Fin du S4:208,255,229
+#[BOOSTER]TAG:Name:Color:DropRate   >> This is a booster template <<
+[BOOSTER]S4:Fin du S4:208,255,229:0.3/0.4/0.2/0.05/0.01
