@@ -10,9 +10,10 @@ LUCAS_B
 CHARLES_R
 GAETAN_P
 HUGO_A
-LANGOT
-SIMON_L
+!LANGOT
+!SIMON_L
 SYDNEY
-#[NEW]VALENTIN_M
+#!VALENTIN_M >> '!' to mark this card as new one
 #$TAG:Name:Color:DropRate   >> This is a booster template <<  IMPORTANT : Start with "$", delimitate var with ":" comma with "." 
 $S4:Fin du S4:94,214,149:0.3/0.4/0.2/0.05/0.01
+!VALENTIN_M
