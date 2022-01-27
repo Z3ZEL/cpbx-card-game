@@ -1,0 +1,14 @@
+{
+    "name" : "Apollinaire",
+    "description":"Avion",
+    "string_effect" : "Vous protège avec un mur de pâte, donne un bouclier à la carte de votre choix",
+    "raw_effect" : "event:INVOKE/type:SHIELD/target:ANY",
+    "rarity" : "UNCOMMON",
+    "force" : 2,
+    "intelligence" : 2,
+    "charisme" :2,
+    "genre" : "MALE",
+    "type" : "STUDENT",
+    "price" : 5,
+    "tag" : "APO"
+}   

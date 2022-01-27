@@ -1,0 +1,14 @@
+{
+    "name" : "Anaïs M.",
+    "description":"Mercato",
+    "string_effect" : "Cours vite, esquive la première attaque",
+    "raw_effect" : "event:INVOKE/type:SHIELD",
+    "rarity" : "UNCOMMON",
+    "force" : 4,
+    "intelligence" : 1,
+    "charisme" :2,
+    "genre" : "FEMALE",
+    "type" : "STUDENT",
+    "price" : 6,
+    "tag" : "ANAIS_M"
+}   

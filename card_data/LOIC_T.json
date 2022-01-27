@@ -1,0 +1,14 @@
+{
+    "name" : "Loïc T.",
+    "description":"Notre gros costeau",
+    "string_effect" : "A des gros muscles et c'est déjà pas mal",
+    "raw_effect" : "event:INVOKE/type:SHIELD/target:ANY",
+    "rarity" : "COMMON",
+    "force" : 6,
+    "intelligence" : 1,
+    "charisme" :3,
+    "genre" : "MALE",
+    "type" : "STUDENT",
+    "price" : 5,
+    "tag" : "LOIC_T"
+}   
