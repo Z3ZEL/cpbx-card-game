@@ -1,6 +1,6 @@
 {
     "name" : "Valentin M. ",
-    "description":"",
+    "description":"Rugbymeeen",
     "string_effect" : "Charge rugby : tacle la carte en face, perd 2 de physique",
     "raw_effect" : "event:INVOKE/type:BOOST/target:FRONT/stat:PHYSIQUE/value:-2",
     "rarity" : "RARE",

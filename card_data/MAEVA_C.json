@@ -1,0 +1,14 @@
+{
+        "name" : "Maeva C.",
+        "description":"Econome",
+        "string_effect" : "Vous fais gagner 5$",
+        "raw_effect" : "event:INVOKE/type:BOOST/stat:MONEY/target:YOU/value:5",
+        "rarity" : "RARE",
+        "force" : 2,
+        "intelligence" : 1,
+        "charisme" : 1,
+        "genre" : "FEMALE",
+        "type" : "STUDENT",
+        "price" : 0,
+        "tag" : "MAEVA_C"
+}   

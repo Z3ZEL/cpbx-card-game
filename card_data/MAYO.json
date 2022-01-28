@@ -1,0 +1,14 @@
+{
+    "name" : "Maïwenn",
+    "description":"Altruiste",
+    "string_effect" : "Pioche 2 carte en entrant sur le terrain.",
+    "raw_effect" : "event:INVOKE/type:DRAW/value:2",
+    "rarity" : "COMMON",
+    "force" : 1,
+    "intelligence" : 1,
+    "charisme" : 2,
+    "genre" : "FEMALE",
+    "type" : "STUDENT",
+    "price" : 1,
+    "tag" : "MAYO"
+}   

@@ -1,3 +1,12 @@
+# '#' to comment 
+#$TAG:Name:Color:DropRate   >> This is a booster template <<  IMPORTANT : Start with "$", delimitate var with ":" comma with "." 
+#!VALENTIN_M >> '!' to mark this card as new one
+
+#LISTE DES BOOSTERS
+$S3:Fin du S3:94,214,149:0.8/0.2/0.1/0.05/0.01
+
+
+
 #REFERENCEMENT DE TOUTE LES CARTES /!\ Case Sensitive /!\
 BLAUDEZ
 LAURENT_MICHEL
@@ -13,10 +22,13 @@ HUGO_A
 LANGOT
 SIMON_L
 SYDNEY
-#!VALENTIN_M >> '!' to mark this card as new one
-#$TAG:Name:Color:DropRate   >> This is a booster template <<  IMPORTANT : Start with "$", delimitate var with ":" comma with "." 
-$S3:Fin du S3:94,214,149:0.3/0.4/0.2/0.05/0.01
-!VALENTIN_M
-!APO
-!ANAIS_M
-!LOIC_T
+VALENTIN_M
+APO
+ANAIS_M
+LOIC_T
+!CHARLOTTE_C
+!MAYO
+!MAEVA_C
+!JULIE_S
+!CASTET
+!JULES_B

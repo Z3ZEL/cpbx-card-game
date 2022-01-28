@@ -1,0 +1,14 @@
+{
+    "name" : "Jules B.",
+    "description":"",
+    "string_effect" : "Soirée chez Jules : Renvoie une carte de votre terrain dans votre main.",
+    "raw_effect" : "event:INVOKE/type:GET_BACK/target:ANY",
+    "rarity" : "RARE",
+    "force" : 2,
+    "intelligence" : 2,
+    "charisme" :2,
+    "genre" : "MALE",
+    "type" : "STUDENT",
+    "price" : 5,
+    "tag" : "JULES_B"
+}   

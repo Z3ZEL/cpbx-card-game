@@ -1,0 +1,14 @@
+{
+    "name" : "Julie S. ",
+    "description":"",
+    "string_effect" : "QG CPBx : Fais apparaitre deux cartes élève de cpbx à droite et à gauche",
+    "raw_effect" : "event:INVOKE/type:SPAWN/target:LEFT,RIGHT/card:CPBX_STUDENT,CPBX_STUDENT",
+    "rarity" : "VERY_RARE",
+    "force" : 4,
+    "intelligence" : 2,
+    "charisme" :2,
+    "genre" : "FEMALE",
+    "type" : "STUDENT",
+    "price" : 10,
+    "tag" : "JULIE_S"
+}   

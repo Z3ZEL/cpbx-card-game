@@ -1,0 +1,14 @@
+{
+    "name" : "Castet",
+    "description":"Prof de chimie",
+    "string_effect" : "DST hardcore, enlève 1 d'intelligence à toute les cartes élèves ennemies.",
+    "raw_effect" : "event:INVOKE/type:BOOST/target:ALL_OPPONENT/stat:INTELLIGENCE/targetType:STUDENT/value:-1",
+    "force" : 3,
+    "intelligence" : 8,
+    "charisme" : 5,
+    "genre" : "MALE",
+    "type" : "PROFESSOR",
+    "price" : 8,
+    "rarity":"VERY_RARE",
+    "tag" : "CASTET"
+}   

@@ -1,0 +1,14 @@
+{
+    "name" : "Charlotte C.",
+    "description":"Parle en ultra-son",
+    "string_effect" : "Cri strident : Empêche d'attaquer toute les cartes de type masculin au prochain tour",
+    "raw_effect" : "event:INVOKE/type:DISABLE/target:ALL/targetGenre:FEMALE",
+    "rarity" : "UNCOMMUN",
+    "force" : 2,
+    "intelligence" : 2,
+    "charisme" :2,
+    "genre" : "FEMALE",
+    "type" : "STUDENT",
+    "price" : 5,
+    "tag" : "CHARLOTTE_C"
+}   
