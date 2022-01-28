@@ -3,7 +3,7 @@
     "description":"Avion",
     "string_effect" : "Hélicoptère charge l'ennemi et peut attaqué directement",
     "raw_effect" : "event:INVOKE/type:CHARGE",
-    "rarity" : "UNCOMMUN",
+    "rarity" : "COMMON",
     "force" : 4,
     "intelligence" : 1,
     "charisme" :2,
